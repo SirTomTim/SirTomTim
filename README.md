@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirTomTim
+- 👋 Hi, I’m @SirTomTim (Siren Tom Timur)
 - 👀 I’m interested in coding and football(soccer)
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on nothing yet
